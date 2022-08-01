@@ -1,0 +1,4 @@
+/* Estilos boton color lila */
+.btn-bd-primary{font-weight:600;color:#fff;background-color:#05f4a4;border-color:#00f1b9}
+.btn-bd-primary:hover,.btn-bd-primary:active{color:#fff;background-color:#03c883;border-color:#ffffff}
+.btn-bd-primary:focus{box-shadow:0 0 0 3px rgba(121,82,179,0.25)}
